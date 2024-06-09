@@ -1,5 +1,7 @@
 House Price Prediction Using Linear Regression
+
 Project Overview
+
 The objective of this project is to develop a linear regression model to predict house prices based on certain features of the houses. Using historical data, we train the model and evaluate its performance to ensure it provides accurate predictions.
 
 Datasets
@@ -36,4 +38,5 @@ Use the trained model to predict house prices for the test dataset. Optionally, 
 Print the predicted house prices for the test dataset.
 
 Conclusion
+
 This project involves building a simple linear regression model to predict house prices based on a few key features. The process includes data loading, preprocessing, model training, and prediction. By following these steps, we develop a model that helps estimate house prices given certain attributes of the house. This can be useful for real estate analysis, pricing strategies, and investment decisions.
